@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a personal blog development.
 - 🌱 I’m currently learning how to become a Java architect.
 - 🤔 I focus on using Java , React , Vue ,MySQL , Linux , Docker , Web Server , etc.
-- 💬 And have some interest and weak understanding of Cloud Computing.
-- 😄 My ambition is to use network technology to improve the efficiency of human life.
-- ⚡ I don't think coding has anything to do with politics, code should not be tainted by politics. So I refuse to use any product with political preferences. (e.g. notepad++ and phpbench)
-- ⚡ I'm learning from everyone who shares, and learning to share with everyone.
+-    And have some interest and weak understanding of Cloud Computing.
+- 😄 I like to know the world and change it.
